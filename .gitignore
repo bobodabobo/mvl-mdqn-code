@@ -1,0 +1,12 @@
+.DS_Store
+.vscode/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.pkl
+*.pdf
+*.png
+*.xlsx
+results/
