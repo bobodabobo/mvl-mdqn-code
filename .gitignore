@@ -8,5 +8,5 @@ __pycache__/
 *.pkl
 *.pdf
 *.png
-*.xlsx
 results/
+results/table.xlsx
