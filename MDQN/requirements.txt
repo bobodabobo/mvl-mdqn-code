@@ -1,0 +1,7 @@
+numpy
+numba
+torch
+gymnasium
+openpyxl
+joblib
+matplotlib
